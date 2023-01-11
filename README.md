@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Polygon ENS 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project creates Ethereum Address Domains, through the use of OpenSea API. Also domain, gest hosted in the vercel-site.  
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/113019900/211829486-4f064922-d90e-4717-b782-a8db5b43ce24.png">
